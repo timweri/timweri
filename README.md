@@ -1,6 +1,5 @@
 ### Hi there wanderer👋
 
-- 🔭 I’m currently working on [@ethereum/solidity](https://github.com/ethereum/solidity)
 - 🏫 I got my Bachelor of Computer Science from the University of Waterloo (Class of 2022)
 - 😊 I’m interested in modern OS/kernel/compiler
 - 💬 Ask me about anything
