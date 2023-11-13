@@ -1,6 +1,6 @@
 ### Hi there wanderer👋
 
-- 🏫 CS @UwWaterloo
+- 🏫 CS @UWaterloo
 - 😊 I’m interested in modern OS/kernel/compiler
 - 📫 How to reach me: thanh@timweri.me
 
